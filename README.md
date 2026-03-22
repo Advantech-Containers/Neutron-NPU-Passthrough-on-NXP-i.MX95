@@ -1,4 +1,4 @@
-# Neutron-NPU-Passthrough-on-NXP-i.mx95
+# Neutron NPU Passthrough on NXP i.MX95
 
 **Version:** 1.0  
 **Release Date:** Feb 2026 
